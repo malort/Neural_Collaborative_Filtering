@@ -2,10 +2,13 @@
 
 ## Introduction:
 
-
+Neural Collaborative filtering is a Deep Learning based solution that uses the flexibility, complexity, and non-linearity of Neural Networks to build a recommender system.
 
 ## Data:
 
+The dataset contains a set of movie ratings from the MovieLens website, a movie recommendation service.
+
+https://grouplens.org/datasets/movielens/latest/ 
 
 ## Requirements:
 
