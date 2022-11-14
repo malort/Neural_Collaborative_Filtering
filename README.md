@@ -27,12 +27,8 @@ https://grouplens.org/datasets/movielens/latest/
 
 ## First part:
 
-Prepare dataset:
-
-Model Definition:
-
-Evaluation:
+After preparing the data and transforming it into the tensor format required by Keras, a first model is created. This first version uses user IDs and movie ratings as inputs following the paper's architecture.
 
 ## Second part:
 
-Add features to the model. 
+In this part, a second version of the model is defined using the previous network structure. The new model includes movie features as product features input, which are mostly used in Content-Based methods. The result is a hybrid recommendation system.
