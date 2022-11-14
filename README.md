@@ -5,6 +5,9 @@
 Neural Collaborative filtering is a Deep Learning based solution that uses the flexibility, complexity, and non-linearity of Neural Networks to build a recommender system.
 NCF combines non-linearity from Neural Networks with Matrix Factorization. It replaces the user-item inner product with a neural architecture to learn a deeper understanding between users and items.
 
+See the original paper for more details:
+https://arxiv.org/abs/1708.05031
+
 ## Data:
 
 The dataset contains a set of movie ratings from the MovieLens website, a movie recommendation service.
